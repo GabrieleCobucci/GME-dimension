@@ -12,27 +12,27 @@ n-partite high-dimensional linear cluster state.
 
 ## Cluster_state-LP
 
-LPGMENmixercl.m
+- LPGMENmixercl.m
 This function evaluates the LP (YALMIP) with a pure linear cluster state and finds the maximum visibility to have a specific GME-dimension
 
-kpositivecluster.m
+- kpositivecluster.m
 This function applies the k-positive generalised reduction map on a density matrix diagonal in the graph basis
 
-Stirling2nd.m [2]
+- Stirling2nd.m [2]
 
-SetPartition.m [2]
+- SetPartition.m [2]
 
 ## GHZ_state-LP
 
-LPGMENmixerghz.m
+- LPGMENmixerghz.m
 This function evaluates the LP (YALMIP) with a pure n-partite high-dimensional GHZ state and finds the maximum visibility to have a specific GME-dimension
 
-kpositiveghz.m
+- kpositiveghz.m
 This function applies the k-positive generalised reduction map on a density matrix diagonal in the GHZ basis
 
-Stirling2dn.m [2]
+- Stirling2dn.m [2]
 
-SetPartition.m [2]
+- SetPartition.m [2]
 
 # References
 [1]: Gabriele Cobucci, Armin Tavakoli (2024). Characterising and detecting genuinely high-dimensional genuine multipartite entanglement (https://arxiv.org/abs/2402.06234)
